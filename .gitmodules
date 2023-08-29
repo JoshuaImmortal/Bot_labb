@@ -1,0 +1,3 @@
+[submodule "Botlab"]
+	path = Botlab
+	url = https://github.com/JoshuaImmortal/Bot_labb.git
